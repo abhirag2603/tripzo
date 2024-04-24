@@ -1,0 +1,27 @@
+import React from 'react'
+
+const Promo = () => {
+  return (
+    <>
+    <div class="container mx-auto px-4 py-16">
+  <div class="flex flex-col lg:flex-row gap-8 lg:gap-16">
+    <div class="flex flex-col gap-4 lg:w-1/3">
+      <h2 class="text-2xl font-bold">Why Should You Choose Us</h2>
+      <ul class="list-disc list-inside text-gray-500">
+        <li>Extensive knowledge and experience in the travel industry.</li>
+        <li>Safety and support are our top priority.</li>
+        <li>Wide range of destinations to cater to different interests and preferences.</li>
+        <li>24/7 customer support available.</li>
+      </ul>
+      <h2 class="text-2xl font-bold mt-8">FROM OUR CLIENTS</h2>
+      <p class="text-gray-500">Real travel history from our beloved clients.</p>
+      <p class="text-lg">By choosing us as their tour agency, customers can expect an enriching and enjoyable travel experience, filled with unforgettable memories that will last a lifetime.</p>
+    </div>
+  </div>
+</div>
+    </>
+  )
+}
+
+export default Promo
+
