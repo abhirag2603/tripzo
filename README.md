@@ -1,5 +1,11 @@
 Travel Website Showcase
 
+![Screenshot](./tripzo1.png)
+![Screenshot](./tripzo2.png)
+![Screenshot](./tripzo3.png)
+![Screenshot](./tripzo4.png)
+
+
 This project is a showcase of my frontend development skills, focusing on creating an aesthetic and professional-level travel website using React.js and Framer Motion for animations.
 
 Features
