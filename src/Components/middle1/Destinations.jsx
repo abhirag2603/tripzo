@@ -81,7 +81,7 @@ const Destinations = () => {
         </div> 
         <div className='flex flex-col lg:flex-row lg:items-center gap-2'>
         <div className="relative">
-          <input type='date' className='rounded-2xl bg-emerald-100' />
+          <input type='date' className='rounded-2xl bg-emerald-100 text-gray-400' />
           {/* <FaCalendarAlt className="absolute top-1 left-2 text-gray-400" />
           <p className="absolute top-0.5 left-8 text-gray-400">Date</p> */}
         </div>
